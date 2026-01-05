@@ -1,0 +1,101 @@
+{
+  "timestamp": "20260105_114749",
+  "generation_method": "complete_sampling_with_constraints",
+  "data_summary": {
+    "original_samples": 1000,
+    "synthetic_samples": 1000,
+    "columns_generated": 9,
+    "columns_evaluated": 5,
+    "overall_similarity_score": 0.972011029605697
+  },
+  "column_analysis": {
+    "income": {
+      "data_type": "float64",
+      "similarity_score": 0.9560653273565944,
+      "original_mean": 44459.6525,
+      "original_std": 23754.115969785104,
+      "original_min": 8348.0,
+      "original_max": 179253.0,
+      "synthetic_mean": 45049.49220289534,
+      "synthetic_std": 25526.232207842066,
+      "synthetic_min": 8281.939439566131,
+      "synthetic_max": 177554.9263804439
+    },
+    "education": {
+      "data_type": "object",
+      "similarity_score": 0.995,
+      "top_original_values": {
+        "Bachelor": 382,
+        "High School": 315,
+        "Master": 209,
+        "PhD": 94
+      },
+      "top_synthetic_values": {
+        "Bachelor": 382,
+        "High School": 317,
+        "Master": 212,
+        "PhD": 89
+      }
+    },
+    "employment_status": {
+      "data_type": "object",
+      "similarity_score": 0.996,
+      "top_original_values": {
+        "Employed": 740,
+        "Self-Employed": 187,
+        "Unemployed": 73
+      },
+      "top_synthetic_values": {
+        "Employed": 744,
+        "Self-Employed": 186,
+        "Unemployed": 70
+      }
+    },
+    "loan_default": {
+      "data_type": "int32",
+      "similarity_score": 0.9279898206718896,
+      "original_mean": 0.149,
+      "original_std": 0.3562666500332664,
+      "original_min": 0,
+      "original_max": 1,
+      "synthetic_mean": 0.134,
+      "synthetic_std": 0.3408227694273963,
+      "synthetic_min": 0,
+      "synthetic_max": 1
+    },
+    "city": {
+      "data_type": "object",
+      "similarity_score": 0.985,
+      "top_original_values": {
+        "New York": 310,
+        "Los Angeles": 272,
+        "Chicago": 195,
+        "Houston": 119,
+        "Phoenix": 104
+      },
+      "top_synthetic_values": {
+        "New York": 315,
+        "Los Angeles": 274,
+        "Chicago": 195,
+        "Phoenix": 112,
+        "Houston": 104
+      }
+    }
+  },
+  "quality_assessment": {
+    "excellent": true,
+    "good": false,
+    "acceptable": false,
+    "fair": false,
+    "poor": false
+  },
+  "generation_parameters": {
+    "random_state": 42,
+    "noise_level": "10% of std",
+    "constraints_applied": [
+      "age_clip_18_70",
+      "credit_score_clip_300_850",
+      "years_at_job_clip_0_40"
+    ]
+  }
+}

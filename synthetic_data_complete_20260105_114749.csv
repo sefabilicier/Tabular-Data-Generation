@@ -1,0 +1,1001 @@
+customer_id,income,education,employment_status,loan_default,city
+1001,105976.65574070308,Bachelor,Employed,0,New York
+1002,40711.51471497053,Bachelor,Employed,0,Los Angeles
+1003,29886.60037241321,Master,Employed,0,New York
+1004,65887.00413842135,Bachelor,Employed,0,Houston
+1005,49061.92072327081,Bachelor,Unemployed,0,New York
+1006,49037.32322239093,Bachelor,Employed,0,Chicago
+1007,39486.578048756564,PhD,Self-Employed,0,New York
+1008,45741.23761953635,Master,Self-Employed,1,New York
+1009,33193.45594512165,Bachelor,Unemployed,0,Phoenix
+1010,65854.5982472617,Bachelor,Unemployed,1,New York
+1011,82626.9092596486,Bachelor,Employed,0,Houston
+1012,32815.52495247553,Master,Unemployed,1,Los Angeles
+1013,75534.96205087341,High School,Self-Employed,0,New York
+1014,103473.79012010859,Bachelor,Employed,0,Phoenix
+1015,41205.7516386343,Bachelor,Employed,0,New York
+1016,19510.003972359256,Bachelor,Employed,0,Houston
+1017,44874.378233994794,High School,Employed,0,New York
+1018,29943.512132598153,Master,Employed,0,Houston
+1019,23153.847407745532,Bachelor,Employed,0,New York
+1020,45680.00833992836,Bachelor,Employed,0,Los Angeles
+1021,35022.38255789478,Bachelor,Employed,0,Chicago
+1022,60723.03640088128,PhD,Self-Employed,0,Phoenix
+1023,51529.62439133233,Bachelor,Employed,0,Phoenix
+1024,66136.7748677755,Master,Employed,0,Houston
+1025,133297.3162073093,High School,Employed,0,Houston
+1026,107365.38418375196,Bachelor,Employed,0,New York
+1027,21342.12451921407,Bachelor,Self-Employed,0,New York
+1028,46346.65699378961,Bachelor,Employed,0,New York
+1029,18046.607674470928,High School,Employed,0,Los Angeles
+1030,74508.88090418442,Master,Employed,0,Los Angeles
+1031,117338.03351505558,High School,Employed,0,Los Angeles
+1032,13658.063273753101,High School,Self-Employed,0,New York
+1033,48554.90962154138,Bachelor,Employed,0,Chicago
+1034,49626.65459420433,PhD,Employed,0,New York
+1035,43402.69380058854,Master,Employed,0,Los Angeles
+1036,9223.269827886506,Bachelor,Employed,0,Los Angeles
+1037,43844.274006790176,PhD,Employed,0,Houston
+1038,68010.98423601691,High School,Employed,0,Chicago
+1039,35289.04788115513,High School,Employed,0,Chicago
+1040,26231.458195739848,Master,Employed,0,New York
+1041,51225.716364351356,Master,Employed,0,Los Angeles
+1042,20696.00560068471,High School,Self-Employed,0,New York
+1043,39746.63225396953,Bachelor,Unemployed,1,Los Angeles
+1044,46939.69099114939,Bachelor,Employed,0,Los Angeles
+1045,35680.76559946622,PhD,Self-Employed,1,New York
+1046,29771.0513518555,Bachelor,Employed,0,New York
+1047,18025.31352140919,Bachelor,Employed,0,Phoenix
+1048,22299.336516217,High School,Self-Employed,0,Phoenix
+1049,169447.97405948368,High School,Self-Employed,0,Los Angeles
+1050,28575.30322461814,High School,Unemployed,0,New York
+1051,171260.348020596,PhD,Employed,0,New York
+1052,12396.747938669032,Bachelor,Employed,0,Los Angeles
+1053,73842.82172521044,Bachelor,Self-Employed,1,Phoenix
+1054,35319.39865579232,Bachelor,Employed,0,New York
+1055,31575.35456525482,Master,Employed,0,Chicago
+1056,38289.93191642853,High School,Employed,0,New York
+1057,33204.111345449164,Bachelor,Employed,0,Phoenix
+1058,44913.856144883604,Master,Employed,0,Los Angeles
+1059,38291.49491809077,Master,Employed,0,Chicago
+1060,33874.317938377695,Master,Self-Employed,1,Los Angeles
+1061,31811.4199039319,PhD,Employed,0,Chicago
+1062,45281.60067931483,Bachelor,Employed,0,New York
+1063,33799.75884173516,Master,Employed,0,New York
+1064,70097.87338164206,High School,Employed,0,Phoenix
+1065,29685.855019419207,Master,Employed,0,Phoenix
+1066,76435.54696218028,Master,Employed,0,Houston
+1067,37808.030865604735,Master,Self-Employed,0,Chicago
+1068,18929.765450304298,High School,Employed,0,Houston
+1069,24066.86391361273,Bachelor,Unemployed,0,New York
+1070,49708.290361478495,High School,Employed,0,Los Angeles
+1071,26478.174648098426,PhD,Employed,0,Los Angeles
+1072,16759.106250689085,PhD,Employed,0,Chicago
+1073,53950.89870176117,Bachelor,Employed,0,Los Angeles
+1074,82565.392599247,Bachelor,Self-Employed,0,New York
+1075,38284.84142175555,Bachelor,Employed,0,Chicago
+1076,34277.19467342086,Master,Employed,0,Houston
+1077,35169.639008817365,Master,Self-Employed,0,Los Angeles
+1078,66732.98976995681,Bachelor,Unemployed,0,New York
+1079,44582.797579215374,High School,Self-Employed,0,New York
+1080,24164.88898649923,Master,Employed,0,New York
+1081,41863.47538330617,Master,Self-Employed,0,New York
+1082,18177.43690357218,High School,Employed,0,Chicago
+1083,42915.560096361376,High School,Employed,0,Chicago
+1084,29260.347226664067,High School,Employed,1,Chicago
+1085,44373.60917811914,Bachelor,Employed,0,Los Angeles
+1086,33164.45122830788,High School,Employed,0,Houston
+1087,46249.143069739024,High School,Employed,0,New York
+1088,22724.198156015795,Master,Self-Employed,0,Los Angeles
+1089,28799.028780936707,High School,Employed,1,Houston
+1090,79764.30988020242,Master,Employed,0,New York
+1091,55862.35566826833,Bachelor,Employed,1,New York
+1092,21537.56204437598,High School,Unemployed,1,Houston
+1093,30014.123272478457,Bachelor,Employed,1,Los Angeles
+1094,19021.87832952541,Bachelor,Employed,0,Chicago
+1095,88762.65580569666,Master,Self-Employed,0,New York
+1096,39832.25730301504,PhD,Self-Employed,0,Chicago
+1097,34165.06169535796,Bachelor,Employed,0,Los Angeles
+1098,53394.47647039974,High School,Employed,0,New York
+1099,71421.78157522476,Master,Self-Employed,0,Chicago
+1100,88997.09551987046,Bachelor,Employed,0,New York
+1101,47255.04659678353,High School,Employed,0,Los Angeles
+1102,115453.13316749674,Master,Self-Employed,0,New York
+1103,26834.113456091574,High School,Employed,0,New York
+1104,173906.86729672665,Bachelor,Employed,0,New York
+1105,59931.04624638378,Bachelor,Employed,0,New York
+1106,64091.28148276855,Master,Employed,0,Phoenix
+1107,56200.052887267775,High School,Employed,0,New York
+1108,27792.650431236496,Bachelor,Self-Employed,0,Los Angeles
+1109,59348.82636599191,Master,Employed,1,New York
+1110,16394.28365357692,Bachelor,Employed,0,New York
+1111,18143.456095820122,Master,Employed,0,Phoenix
+1112,26620.876714222733,Bachelor,Employed,0,New York
+1113,53684.820602383385,PhD,Unemployed,0,Phoenix
+1114,44325.666306020175,Bachelor,Employed,0,New York
+1115,51959.75883772442,Bachelor,Employed,0,Chicago
+1116,20775.151456966578,Bachelor,Employed,0,Los Angeles
+1117,29851.446280439424,Bachelor,Employed,0,Houston
+1118,39806.66381220424,Master,Employed,0,Los Angeles
+1119,46259.40003839817,PhD,Employed,0,Los Angeles
+1120,13494.162752190103,Bachelor,Unemployed,1,New York
+1121,45120.930692563255,High School,Employed,1,New York
+1122,40259.365078082315,Master,Employed,0,Phoenix
+1123,53972.884496608815,Master,Self-Employed,0,Los Angeles
+1124,23609.903934818354,High School,Self-Employed,0,Los Angeles
+1125,16536.955110271196,High School,Employed,0,Chicago
+1126,34241.85368667767,High School,Employed,0,Los Angeles
+1127,131769.4753351671,High School,Employed,1,Phoenix
+1128,28678.704102315773,Bachelor,Employed,0,Chicago
+1129,82710.99583856654,High School,Self-Employed,0,Chicago
+1130,27098.406694596688,Bachelor,Employed,0,Houston
+1131,84693.94534804887,Master,Employed,1,New York
+1132,77028.66212690256,Bachelor,Self-Employed,0,New York
+1133,26429.916818477657,High School,Self-Employed,0,Los Angeles
+1134,72969.22153993954,High School,Unemployed,0,New York
+1135,36333.947842585476,High School,Self-Employed,0,Chicago
+1136,64721.87580138652,Bachelor,Employed,0,Phoenix
+1137,67378.9199323228,High School,Employed,1,Los Angeles
+1138,31222.205975473855,High School,Employed,0,Los Angeles
+1139,59291.03327996716,High School,Employed,0,Phoenix
+1140,23894.338074955416,High School,Employed,0,Los Angeles
+1141,62948.620950197415,High School,Employed,0,Los Angeles
+1142,49069.59135352638,Master,Employed,0,Los Angeles
+1143,58554.164113909195,Bachelor,Self-Employed,0,Phoenix
+1144,44260.52230055409,Master,Employed,0,Los Angeles
+1145,28267.359608964067,High School,Unemployed,0,Chicago
+1146,80074.6443629321,Bachelor,Employed,0,Houston
+1147,79967.112734503,Bachelor,Employed,0,Los Angeles
+1148,28690.481236260177,Bachelor,Employed,1,Los Angeles
+1149,28085.502988347627,Master,Employed,0,Houston
+1150,30024.31881935109,Master,Employed,0,Los Angeles
+1151,96539.82699078949,Master,Self-Employed,0,Houston
+1152,25588.045768578275,High School,Employed,0,Phoenix
+1153,85655.78382319771,High School,Employed,0,Chicago
+1154,38078.6836352805,Bachelor,Employed,0,Chicago
+1155,33023.62421177692,Bachelor,Employed,0,Houston
+1156,37226.28658307201,High School,Unemployed,0,Houston
+1157,32931.68638534303,Bachelor,Self-Employed,0,Los Angeles
+1158,25318.2024896641,Bachelor,Employed,0,New York
+1159,99454.96305201018,High School,Employed,1,Los Angeles
+1160,44942.35422169075,Master,Employed,0,Chicago
+1161,17312.94527866425,PhD,Self-Employed,0,Los Angeles
+1162,23143.622678144366,PhD,Employed,1,Chicago
+1163,25598.734520579295,High School,Employed,1,Los Angeles
+1164,17401.496264285262,High School,Self-Employed,0,Chicago
+1165,55331.986193458426,High School,Employed,0,New York
+1166,21111.48858211157,Master,Self-Employed,0,Chicago
+1167,86818.33455558453,Bachelor,Employed,0,Los Angeles
+1168,47638.931125480834,High School,Employed,0,New York
+1169,34684.27972294611,Master,Employed,0,New York
+1170,61729.55992080062,High School,Unemployed,0,Chicago
+1171,55037.37748116028,High School,Self-Employed,0,Los Angeles
+1172,21074.653026483276,High School,Employed,0,New York
+1173,30490.61534305209,Bachelor,Employed,0,Phoenix
+1174,56009.380086291516,Bachelor,Employed,0,Chicago
+1175,52031.09917526148,Bachelor,Unemployed,0,Phoenix
+1176,40711.01079351395,Bachelor,Employed,0,Los Angeles
+1177,19732.75123152441,Bachelor,Employed,1,Los Angeles
+1178,38879.22863318619,Master,Employed,0,Phoenix
+1179,39398.58707500912,Bachelor,Self-Employed,0,Los Angeles
+1180,50967.5460629633,High School,Employed,0,Chicago
+1181,64596.67963614196,Bachelor,Employed,0,New York
+1182,18869.643544494007,PhD,Employed,1,Los Angeles
+1183,108083.68155374806,Bachelor,Self-Employed,0,New York
+1184,24172.122121266188,High School,Employed,0,New York
+1185,17379.749084641648,Master,Employed,0,New York
+1186,43116.8866183248,Master,Unemployed,0,New York
+1187,100182.0682918978,Bachelor,Employed,0,Phoenix
+1188,37361.02027323502,Master,Employed,0,New York
+1189,88010.11738310657,High School,Employed,0,Chicago
+1190,37440.83014760484,High School,Self-Employed,0,Houston
+1191,24450.007211365002,Bachelor,Employed,0,Los Angeles
+1192,55237.626059306625,Bachelor,Unemployed,1,New York
+1193,32794.82879203362,Master,Employed,0,Chicago
+1194,46676.26982914644,High School,Employed,0,Chicago
+1195,47825.38932800582,High School,Employed,0,Chicago
+1196,13115.448551950345,Master,Self-Employed,1,Chicago
+1197,37779.99926984306,Master,Employed,0,Phoenix
+1198,43931.366961570995,Bachelor,Self-Employed,0,Los Angeles
+1199,57638.77423279673,High School,Employed,0,Los Angeles
+1200,35671.58483437088,Bachelor,Employed,0,Chicago
+1201,33791.58441591865,Master,Employed,0,New York
+1202,29995.501131511217,High School,Self-Employed,0,Phoenix
+1203,39991.9359489703,PhD,Employed,0,New York
+1204,24432.03331882893,Bachelor,Employed,0,Los Angeles
+1205,26425.620637555814,Bachelor,Employed,0,Houston
+1206,40822.243966724454,Bachelor,Self-Employed,0,Chicago
+1207,44810.15953876009,Bachelor,Employed,0,Los Angeles
+1208,50884.47779461702,Bachelor,Self-Employed,0,Los Angeles
+1209,37884.67198742015,PhD,Employed,0,Houston
+1210,82997.1978911084,Bachelor,Employed,0,Los Angeles
+1211,31130.078063713267,Bachelor,Employed,0,Houston
+1212,35329.16253831114,Master,Self-Employed,0,New York
+1213,33878.93216283266,High School,Self-Employed,0,Chicago
+1214,43998.43278352021,Master,Employed,0,Houston
+1215,22924.807292972273,Bachelor,Employed,0,New York
+1216,48580.72100710514,High School,Employed,0,Los Angeles
+1217,26488.387768767883,Bachelor,Employed,0,New York
+1218,64881.96352810507,Bachelor,Employed,0,Chicago
+1219,36543.04072175024,PhD,Employed,0,Los Angeles
+1220,54668.50026477514,Bachelor,Employed,0,Chicago
+1221,24238.66761571496,High School,Employed,0,New York
+1222,23395.953494239227,High School,Employed,0,New York
+1223,45247.857663753544,Bachelor,Employed,1,New York
+1224,26657.994455108892,Master,Employed,1,Los Angeles
+1225,39703.59490732111,Bachelor,Employed,0,Los Angeles
+1226,65018.81670765087,High School,Self-Employed,0,Houston
+1227,41759.297811419936,PhD,Employed,0,Chicago
+1228,40664.93140314925,High School,Employed,0,Los Angeles
+1229,28861.582814724436,PhD,Employed,0,Phoenix
+1230,177554.9263804439,Bachelor,Employed,0,Chicago
+1231,81855.47398907029,High School,Employed,0,Phoenix
+1232,20080.652353648147,Bachelor,Employed,0,Los Angeles
+1233,26600.281233531932,Master,Unemployed,0,New York
+1234,57640.204291247086,PhD,Employed,0,New York
+1235,34093.36960289117,Bachelor,Employed,0,Chicago
+1236,30080.155222291418,High School,Employed,0,New York
+1237,18356.699891099477,Bachelor,Employed,0,New York
+1238,36735.311567008925,High School,Employed,0,Los Angeles
+1239,52254.66620530126,High School,Self-Employed,0,Los Angeles
+1240,24974.981755916306,PhD,Employed,1,Chicago
+1241,49338.83552965431,High School,Employed,0,New York
+1242,170428.03427031278,Bachelor,Employed,1,Los Angeles
+1243,28278.368951434706,Bachelor,Employed,1,Chicago
+1244,69080.16034952622,Bachelor,Unemployed,0,Phoenix
+1245,47345.811919106265,Bachelor,Employed,0,Chicago
+1246,19764.6548658394,Bachelor,Employed,0,Phoenix
+1247,24729.373131218286,Master,Employed,1,Chicago
+1248,29968.613086779187,High School,Unemployed,0,Chicago
+1249,21691.36369349557,High School,Employed,0,New York
+1250,11486.416797246726,Bachelor,Employed,0,Chicago
+1251,69967.25907569322,Master,Employed,0,Chicago
+1252,97984.669269652,Master,Employed,0,Chicago
+1253,24768.784192620147,Bachelor,Employed,0,Los Angeles
+1254,66612.02734441719,Master,Employed,0,Los Angeles
+1255,32553.435438799523,High School,Employed,0,Los Angeles
+1256,34330.77667286804,Bachelor,Employed,0,Los Angeles
+1257,136299.03175023728,High School,Employed,1,New York
+1258,45385.05563593818,High School,Employed,0,Houston
+1259,26159.27868615969,Bachelor,Employed,0,New York
+1260,33348.54552401785,PhD,Employed,0,New York
+1261,27165.788719838056,Master,Employed,0,Los Angeles
+1262,16347.668154912923,High School,Unemployed,0,Chicago
+1263,30262.08780154771,High School,Employed,0,Los Angeles
+1264,81767.69298830078,High School,Employed,0,New York
+1265,27241.532837912677,High School,Employed,1,Los Angeles
+1266,34404.08460337127,High School,Unemployed,1,Los Angeles
+1267,27276.316616110722,Bachelor,Employed,0,Phoenix
+1268,54808.98492906618,High School,Employed,0,Phoenix
+1269,36581.19750208995,Master,Employed,0,Los Angeles
+1270,100507.14249656347,High School,Employed,0,Los Angeles
+1271,63605.69786097144,Bachelor,Employed,1,Chicago
+1272,56753.81559712839,Master,Employed,0,New York
+1273,22504.32416077319,Bachelor,Employed,0,Los Angeles
+1274,79593.60238685369,Bachelor,Unemployed,1,Los Angeles
+1275,35206.85557390334,Bachelor,Employed,0,Phoenix
+1276,44769.77803423812,Bachelor,Employed,0,New York
+1277,72583.96521708206,Master,Employed,0,Los Angeles
+1278,51182.84479687571,High School,Employed,0,Chicago
+1279,55660.97591488087,Bachelor,Employed,0,Los Angeles
+1280,91772.67505932186,Master,Employed,0,New York
+1281,64907.58039748441,Master,Employed,0,Phoenix
+1282,28657.365219973224,Master,Self-Employed,0,Los Angeles
+1283,44316.925257356255,Bachelor,Unemployed,0,Chicago
+1284,60270.36353235115,High School,Employed,0,New York
+1285,59881.621306124696,PhD,Employed,0,Los Angeles
+1286,76598.46671884623,Master,Unemployed,0,Los Angeles
+1287,107860.26819014372,Bachelor,Employed,0,New York
+1288,28868.037329061466,Bachelor,Self-Employed,0,New York
+1289,88590.54847662877,High School,Employed,0,Houston
+1290,36999.46600800707,PhD,Employed,0,New York
+1291,13281.943429768136,High School,Employed,0,New York
+1292,34795.66473965896,High School,Employed,0,Los Angeles
+1293,52059.12826216669,Bachelor,Employed,0,Chicago
+1294,64808.64630695784,High School,Employed,0,New York
+1295,46570.82255345805,Master,Employed,0,Los Angeles
+1296,43858.308222216016,Bachelor,Employed,0,New York
+1297,45633.55678359649,Master,Employed,0,New York
+1298,45462.88545963425,PhD,Unemployed,0,New York
+1299,88475.02963455103,Bachelor,Employed,0,Houston
+1300,31692.100583727402,High School,Self-Employed,1,New York
+1301,23716.859606360642,Bachelor,Employed,0,New York
+1302,85892.69979825015,Master,Employed,0,Los Angeles
+1303,37713.70016319158,High School,Unemployed,0,Houston
+1304,40538.09030151709,High School,Employed,0,New York
+1305,48614.944497345554,Master,Employed,0,Los Angeles
+1306,38165.781320787224,High School,Employed,0,New York
+1307,15318.317675051438,PhD,Employed,0,Los Angeles
+1308,52470.8286803904,High School,Self-Employed,0,Los Angeles
+1309,19841.893829226086,Bachelor,Self-Employed,0,Los Angeles
+1310,104178.32470272262,High School,Employed,0,Los Angeles
+1311,51531.36500901625,Master,Employed,0,Los Angeles
+1312,32553.523066310816,Bachelor,Employed,0,New York
+1313,17457.453266968645,Master,Employed,1,Los Angeles
+1314,44674.35845019608,PhD,Employed,0,New York
+1315,27064.560740422403,Bachelor,Employed,1,Chicago
+1316,51899.782131004205,PhD,Employed,0,Phoenix
+1317,18719.25333875813,Bachelor,Employed,0,Phoenix
+1318,24604.26655248319,Bachelor,Employed,0,Houston
+1319,19225.59288177908,Bachelor,Employed,0,Chicago
+1320,51915.11255480485,Master,Employed,0,Chicago
+1321,38578.60209141118,High School,Employed,0,New York
+1322,66643.79608551026,Bachelor,Self-Employed,0,Chicago
+1323,38932.33768132739,High School,Employed,1,Los Angeles
+1324,20863.028547222842,High School,Employed,0,Los Angeles
+1325,32466.271334304194,Bachelor,Employed,0,Chicago
+1326,13388.730705015802,Master,Employed,0,New York
+1327,24466.1558913967,Master,Employed,0,Los Angeles
+1328,14271.646167297353,High School,Employed,0,Phoenix
+1329,33912.50471345272,PhD,Employed,0,New York
+1330,65976.55814855928,High School,Employed,1,Los Angeles
+1331,16706.875743251927,PhD,Employed,0,Phoenix
+1332,40004.463849177046,High School,Employed,0,Chicago
+1333,46596.78817838146,High School,Employed,0,Los Angeles
+1334,66524.64961381369,Bachelor,Employed,1,New York
+1335,16001.848595811729,Master,Unemployed,0,Los Angeles
+1336,45276.20592929617,High School,Self-Employed,0,Houston
+1337,20985.21309017225,Bachelor,Self-Employed,0,Los Angeles
+1338,29162.461957885174,Bachelor,Self-Employed,0,Los Angeles
+1339,18645.76833042259,High School,Unemployed,0,New York
+1340,11104.663161667964,High School,Employed,0,New York
+1341,65611.66823599914,Master,Employed,0,Phoenix
+1342,23290.61354042679,Master,Employed,0,Los Angeles
+1343,17543.176000060506,Bachelor,Self-Employed,0,Chicago
+1344,96795.2955595104,Master,Employed,0,New York
+1345,29648.187309847744,Bachelor,Employed,0,Chicago
+1346,23704.546416071913,Master,Employed,0,Phoenix
+1347,30168.16600231591,Master,Employed,0,Los Angeles
+1348,43787.47803398943,High School,Self-Employed,0,New York
+1349,31130.798704534067,Master,Employed,0,Los Angeles
+1350,36818.97698324816,Bachelor,Employed,0,Chicago
+1351,30529.653240502892,High School,Employed,1,Los Angeles
+1352,45284.059729799854,Master,Employed,0,Houston
+1353,23532.647938269005,High School,Self-Employed,0,Chicago
+1354,32166.654622328286,Bachelor,Employed,0,Phoenix
+1355,28734.393519014106,High School,Self-Employed,0,Chicago
+1356,18779.600917528223,Master,Employed,0,New York
+1357,24130.941040472044,Bachelor,Employed,0,New York
+1358,41858.19271236163,Bachelor,Employed,0,New York
+1359,29090.8993576965,Master,Employed,0,Phoenix
+1360,33887.83294272354,Master,Employed,0,Chicago
+1361,45286.78686931009,Bachelor,Employed,0,Chicago
+1362,22553.990884492974,Bachelor,Employed,0,New York
+1363,39839.83306274956,Bachelor,Unemployed,0,New York
+1364,17723.061871765356,Bachelor,Employed,1,Chicago
+1365,23962.046974600813,High School,Self-Employed,1,Los Angeles
+1366,21059.524209026742,Master,Employed,0,New York
+1367,57463.62323189529,High School,Employed,0,Chicago
+1368,57948.82352865379,High School,Employed,0,New York
+1369,53941.75450144907,Bachelor,Employed,0,Los Angeles
+1370,24658.818200189475,Master,Employed,0,Los Angeles
+1371,68405.99718735706,High School,Employed,0,New York
+1372,41069.66656503407,PhD,Employed,0,Phoenix
+1373,40877.887933912745,High School,Unemployed,0,New York
+1374,23881.380365825506,Bachelor,Employed,0,New York
+1375,29381.695180007442,High School,Self-Employed,0,New York
+1376,65681.31132359288,Bachelor,Employed,0,Chicago
+1377,36428.202155264924,High School,Employed,0,Los Angeles
+1378,84793.90989762565,Bachelor,Employed,1,Los Angeles
+1379,23456.228677371444,Bachelor,Employed,0,New York
+1380,25567.217118336386,Master,Employed,0,New York
+1381,27547.0545953675,Bachelor,Employed,1,Los Angeles
+1382,38915.06999050987,Master,Employed,1,Houston
+1383,50296.749919951406,Bachelor,Employed,0,Houston
+1384,11785.041362642658,High School,Self-Employed,0,New York
+1385,41194.18996931287,High School,Self-Employed,0,Los Angeles
+1386,62883.35169844286,High School,Employed,0,Phoenix
+1387,30277.11301841154,Bachelor,Employed,0,Los Angeles
+1388,25507.007524360193,Bachelor,Employed,0,Houston
+1389,69809.12638442588,Bachelor,Employed,0,New York
+1390,41114.392460296964,Bachelor,Employed,0,Phoenix
+1391,93984.73272189319,High School,Employed,0,Chicago
+1392,53072.2990692733,PhD,Employed,0,Phoenix
+1393,48793.908356892774,Master,Employed,0,Chicago
+1394,63174.74168530074,Master,Employed,0,Los Angeles
+1395,33700.32755529088,Master,Self-Employed,0,Phoenix
+1396,84279.53413639787,High School,Self-Employed,0,New York
+1397,66696.5201000008,Bachelor,Employed,0,Los Angeles
+1398,37612.3437406369,PhD,Self-Employed,1,Chicago
+1399,41131.11151936783,High School,Unemployed,0,Chicago
+1400,72988.19662657064,High School,Employed,0,Phoenix
+1401,31393.045756924745,Bachelor,Employed,0,New York
+1402,88631.67150119798,High School,Employed,0,Houston
+1403,26290.040228808633,High School,Unemployed,0,Chicago
+1404,35574.84465988787,Master,Self-Employed,0,New York
+1405,46716.2677990679,High School,Employed,0,Los Angeles
+1406,45342.1830788395,Bachelor,Employed,0,New York
+1407,34936.810233972516,PhD,Employed,0,New York
+1408,45601.18136803283,Bachelor,Employed,0,Phoenix
+1409,32416.3264082562,High School,Employed,0,Chicago
+1410,36639.90591821345,Bachelor,Self-Employed,1,Chicago
+1411,17095.892622513864,Master,Employed,0,Phoenix
+1412,28474.58895245012,PhD,Self-Employed,0,Los Angeles
+1413,13010.659137219298,Bachelor,Self-Employed,0,Houston
+1414,43300.774972063096,Master,Self-Employed,0,Los Angeles
+1415,64993.93766366415,Bachelor,Employed,0,Houston
+1416,8281.939439566131,PhD,Employed,0,New York
+1417,23774.102929312667,Master,Employed,0,Phoenix
+1418,92912.4577446239,Master,Employed,0,New York
+1419,25778.168047065286,Bachelor,Employed,0,Los Angeles
+1420,116271.89849556712,PhD,Employed,0,Chicago
+1421,25708.055485332745,Master,Employed,0,Los Angeles
+1422,24156.182661876253,Bachelor,Employed,0,Chicago
+1423,36888.354298522034,Master,Employed,0,Los Angeles
+1424,47384.73930895313,Bachelor,Employed,0,Chicago
+1425,26072.458342370497,Master,Employed,0,New York
+1426,34672.95443928325,Bachelor,Employed,0,New York
+1427,15145.227016648536,Master,Employed,0,New York
+1428,24862.780253588804,High School,Employed,0,Los Angeles
+1429,26755.829263117303,Bachelor,Employed,1,New York
+1430,43476.109075700646,Bachelor,Employed,0,Los Angeles
+1431,39099.74814418144,Bachelor,Employed,0,Los Angeles
+1432,54299.38634181394,High School,Self-Employed,0,New York
+1433,44193.633993232965,Bachelor,Employed,0,Chicago
+1434,18348.99222790363,High School,Employed,0,Houston
+1435,44357.88336177301,Bachelor,Employed,0,New York
+1436,75109.6455722627,Bachelor,Employed,0,Chicago
+1437,37694.876664525495,Master,Employed,0,Chicago
+1438,57722.823512734554,Bachelor,Employed,0,Los Angeles
+1439,45346.752377658246,Master,Employed,0,Chicago
+1440,15638.16475971979,Master,Employed,1,Los Angeles
+1441,109590.60911626155,High School,Employed,0,Los Angeles
+1442,66613.35639185047,High School,Employed,0,New York
+1443,14489.076851751453,Master,Employed,0,Chicago
+1444,119306.99823373872,Bachelor,Unemployed,0,Chicago
+1445,21107.17084050698,Bachelor,Employed,0,New York
+1446,51234.688417802696,Bachelor,Employed,0,Los Angeles
+1447,36894.50333046203,Master,Employed,0,Phoenix
+1448,35635.9740475597,Bachelor,Employed,0,Los Angeles
+1449,113138.07308979776,High School,Employed,0,Los Angeles
+1450,25299.380545883203,PhD,Employed,0,Phoenix
+1451,64418.39250573197,Master,Employed,0,Chicago
+1452,59760.77444347168,High School,Employed,1,Chicago
+1453,16336.89455022118,Bachelor,Employed,0,Houston
+1454,46435.3484264073,Master,Employed,0,Houston
+1455,50599.10504555253,High School,Self-Employed,0,Los Angeles
+1456,39699.66367512841,Bachelor,Employed,1,Los Angeles
+1457,33087.78476698332,Bachelor,Employed,0,Los Angeles
+1458,21937.51320929052,PhD,Employed,0,Phoenix
+1459,20439.94322603128,High School,Employed,0,Chicago
+1460,36994.403656992035,Master,Employed,0,New York
+1461,25418.282264232337,Master,Employed,0,Houston
+1462,17282.242634894992,High School,Employed,0,Los Angeles
+1463,74005.81291883852,High School,Employed,1,New York
+1464,50564.30597963634,High School,Employed,0,Los Angeles
+1465,24908.242976496203,Bachelor,Employed,0,Los Angeles
+1466,43300.47357999313,High School,Self-Employed,0,Houston
+1467,106628.02569702409,Master,Employed,0,New York
+1468,108394.48385118364,High School,Employed,1,Houston
+1469,37859.96180162399,Master,Employed,0,Los Angeles
+1470,60755.94865142588,High School,Employed,0,New York
+1471,16832.374638126115,High School,Self-Employed,0,Phoenix
+1472,48860.049218361404,High School,Employed,0,Los Angeles
+1473,86809.04796430274,High School,Employed,0,New York
+1474,55442.472537623384,Master,Employed,0,Los Angeles
+1475,24405.31370243082,Bachelor,Employed,0,Houston
+1476,24450.063173684423,High School,Employed,1,New York
+1477,30693.67750375744,Bachelor,Employed,0,New York
+1478,16437.715467487367,High School,Employed,1,New York
+1479,98521.54910983884,High School,Employed,0,New York
+1480,57899.740306542,High School,Employed,0,Houston
+1481,39654.30980446279,PhD,Self-Employed,0,Los Angeles
+1482,42874.81356044913,High School,Self-Employed,0,New York
+1483,84900.46011754236,Master,Self-Employed,0,New York
+1484,40258.58849558711,High School,Employed,0,Los Angeles
+1485,65765.9888622128,High School,Employed,0,Phoenix
+1486,46407.92316351983,Bachelor,Self-Employed,0,Los Angeles
+1487,63422.50458920124,Bachelor,Employed,0,Phoenix
+1488,12139.968160331318,Bachelor,Employed,0,Los Angeles
+1489,32347.37987222352,High School,Self-Employed,0,New York
+1490,33956.311856501125,Bachelor,Self-Employed,0,Houston
+1491,28165.77295233929,Bachelor,Employed,0,Los Angeles
+1492,14793.689997778545,Bachelor,Employed,0,Chicago
+1493,31138.06978322591,PhD,Employed,1,Phoenix
+1494,34203.53340084176,Bachelor,Self-Employed,0,New York
+1495,26308.04833463789,High School,Self-Employed,0,New York
+1496,31144.627342928237,Bachelor,Employed,0,Chicago
+1497,35469.98288833044,High School,Employed,0,New York
+1498,55378.98461633831,Bachelor,Self-Employed,0,New York
+1499,34083.79142785353,Bachelor,Employed,0,New York
+1500,30651.558305840485,High School,Employed,1,New York
+1501,38340.19649617866,Bachelor,Unemployed,0,Chicago
+1502,34155.95299005506,Bachelor,Employed,0,New York
+1503,65367.02577395056,Bachelor,Employed,0,Los Angeles
+1504,38813.50539218918,Bachelor,Employed,0,Chicago
+1505,65184.955390902505,Bachelor,Employed,0,Los Angeles
+1506,68283.4415331515,Bachelor,Self-Employed,0,New York
+1507,42421.75085339313,Master,Employed,0,Houston
+1508,56567.658423655834,High School,Unemployed,1,New York
+1509,12638.280785752459,High School,Employed,0,Chicago
+1510,44924.84938061616,Bachelor,Employed,0,Houston
+1511,102303.93894234627,PhD,Employed,0,Los Angeles
+1512,82647.30591501377,High School,Employed,0,Los Angeles
+1513,99180.78195249385,Bachelor,Employed,0,Los Angeles
+1514,43949.65937502763,High School,Employed,0,Los Angeles
+1515,48469.29060954869,Bachelor,Employed,0,Houston
+1516,42981.62035695833,Bachelor,Employed,0,Houston
+1517,33135.90001139507,High School,Employed,0,Los Angeles
+1518,94981.57222981456,Master,Employed,1,Chicago
+1519,99970.38889438375,High School,Employed,0,Phoenix
+1520,32270.100814441943,Master,Employed,1,Phoenix
+1521,19466.633887227792,PhD,Employed,1,Los Angeles
+1522,32222.790968121502,Bachelor,Employed,0,Los Angeles
+1523,42072.00441894343,Bachelor,Employed,0,New York
+1524,34627.2734752476,High School,Employed,0,Phoenix
+1525,34817.53641471564,High School,Self-Employed,0,New York
+1526,81780.04361998812,High School,Self-Employed,0,Los Angeles
+1527,30373.31730950123,PhD,Employed,0,New York
+1528,58417.6036533031,Master,Employed,1,New York
+1529,25662.857706014944,High School,Self-Employed,0,Los Angeles
+1530,11834.924896907443,Bachelor,Employed,0,Phoenix
+1531,79769.72762127814,Master,Self-Employed,0,New York
+1532,26529.80416201082,PhD,Self-Employed,1,Los Angeles
+1533,72203.33056218641,Master,Self-Employed,0,New York
+1534,29847.03346254627,Bachelor,Employed,1,New York
+1535,69005.76393439178,High School,Employed,0,Los Angeles
+1536,39353.81606734286,Bachelor,Employed,0,Los Angeles
+1537,78458.172605656,Bachelor,Employed,0,New York
+1538,24608.52231848729,Bachelor,Self-Employed,0,Los Angeles
+1539,41455.37098836517,High School,Employed,0,New York
+1540,32134.93083113923,High School,Employed,0,New York
+1541,19814.215427494808,Bachelor,Self-Employed,0,Phoenix
+1542,48251.91457316076,High School,Self-Employed,0,Phoenix
+1543,23722.15172297267,High School,Self-Employed,0,Los Angeles
+1544,32119.63811970938,Bachelor,Self-Employed,1,Los Angeles
+1545,8927.127042843744,Bachelor,Employed,0,Phoenix
+1546,18251.081078940217,High School,Employed,0,New York
+1547,63017.75008373456,Master,Self-Employed,0,Houston
+1548,35762.44525546554,Bachelor,Employed,0,Phoenix
+1549,37189.49541849209,Bachelor,Employed,0,New York
+1550,52845.41650303809,Bachelor,Employed,0,New York
+1551,46307.52293582119,PhD,Employed,0,Phoenix
+1552,34162.10823631882,High School,Employed,0,Los Angeles
+1553,24154.24981750275,High School,Employed,0,New York
+1554,90720.43354676108,Bachelor,Employed,0,New York
+1555,57393.7144480891,High School,Employed,0,Los Angeles
+1556,27139.031349923487,Bachelor,Employed,0,Chicago
+1557,68885.9650705587,High School,Employed,0,Chicago
+1558,26713.27647165893,PhD,Employed,0,Phoenix
+1559,42880.07873770221,High School,Self-Employed,0,New York
+1560,25806.535183822707,Master,Employed,1,Los Angeles
+1561,81987.85713814084,Master,Employed,0,Los Angeles
+1562,26432.03747561019,Bachelor,Employed,0,Los Angeles
+1563,48811.113762364075,Master,Employed,0,New York
+1564,28958.976893735166,Bachelor,Employed,0,Phoenix
+1565,37723.431805042484,High School,Self-Employed,0,Houston
+1566,48552.49210553168,Bachelor,Employed,0,Los Angeles
+1567,30165.7310974314,Bachelor,Self-Employed,0,Chicago
+1568,39035.28433422991,High School,Employed,0,New York
+1569,38807.818665560655,Bachelor,Employed,0,Los Angeles
+1570,18797.175748077094,High School,Employed,0,Chicago
+1571,41157.8407911272,High School,Unemployed,0,Los Angeles
+1572,22408.871134587076,Bachelor,Employed,0,Phoenix
+1573,54868.28988158142,Bachelor,Employed,0,Chicago
+1574,70082.97478980385,High School,Employed,0,Los Angeles
+1575,22821.608338328537,Bachelor,Employed,0,Chicago
+1576,43092.32022976068,Master,Employed,0,New York
+1577,19700.300712803237,High School,Employed,0,Los Angeles
+1578,62869.22199469273,Master,Employed,0,Los Angeles
+1579,53484.874435192985,High School,Employed,0,Los Angeles
+1580,101624.74943109884,High School,Employed,0,Houston
+1581,44202.13069836193,High School,Self-Employed,0,Los Angeles
+1582,35537.56303474873,Bachelor,Self-Employed,0,Houston
+1583,26341.58632386908,Bachelor,Self-Employed,0,Los Angeles
+1584,47194.288937849116,Master,Employed,0,Los Angeles
+1585,36743.578864605006,High School,Employed,0,Houston
+1586,34261.29779271759,Master,Employed,0,New York
+1587,52186.59880976674,Master,Employed,0,New York
+1588,61866.63682628621,Master,Employed,0,Los Angeles
+1589,30156.033655609317,PhD,Employed,0,New York
+1590,25578.66589131277,High School,Employed,0,New York
+1591,22159.442486865697,Bachelor,Employed,1,Chicago
+1592,28576.407083761627,High School,Self-Employed,0,Los Angeles
+1593,28711.189760895486,Bachelor,Employed,1,Los Angeles
+1594,25416.09655978508,High School,Employed,0,Phoenix
+1595,29153.119138968243,Master,Employed,0,Los Angeles
+1596,21654.864933742105,High School,Employed,0,Houston
+1597,48226.99493860956,Bachelor,Employed,0,New York
+1598,17104.039315589547,Bachelor,Self-Employed,0,Los Angeles
+1599,38918.85197904978,High School,Self-Employed,0,Houston
+1600,59789.00670834936,Bachelor,Employed,0,Chicago
+1601,49366.740212729885,Master,Self-Employed,1,Chicago
+1602,30445.27110436465,Bachelor,Unemployed,0,Los Angeles
+1603,28622.245423610377,Bachelor,Self-Employed,0,New York
+1604,66797.26556449455,Bachelor,Self-Employed,0,Los Angeles
+1605,13608.214803719475,High School,Employed,0,Los Angeles
+1606,18644.11977906363,High School,Employed,0,Houston
+1607,55024.545132361316,Bachelor,Employed,0,New York
+1608,38779.38557334794,Bachelor,Employed,0,Phoenix
+1609,120918.6466722405,High School,Unemployed,0,Phoenix
+1610,35122.25887572627,Bachelor,Employed,0,New York
+1611,15878.567756438484,High School,Self-Employed,1,Los Angeles
+1612,43182.68974777238,High School,Self-Employed,0,Houston
+1613,101504.45235639041,Bachelor,Self-Employed,1,Phoenix
+1614,22181.794463789083,Bachelor,Unemployed,0,Los Angeles
+1615,39250.119691609834,PhD,Employed,0,Los Angeles
+1616,64003.59607134778,High School,Employed,0,Los Angeles
+1617,63906.353141298445,High School,Employed,0,Chicago
+1618,25845.380392544695,Bachelor,Employed,0,New York
+1619,14328.598743589799,High School,Employed,0,Chicago
+1620,33592.895264413724,Bachelor,Employed,0,New York
+1621,39002.628549973655,High School,Self-Employed,0,New York
+1622,45352.119570204275,PhD,Employed,0,Los Angeles
+1623,33736.61411973365,High School,Employed,0,Los Angeles
+1624,30561.571978173746,Bachelor,Employed,0,Los Angeles
+1625,32380.043289054363,Bachelor,Employed,0,Los Angeles
+1626,16063.568708126477,High School,Employed,0,Los Angeles
+1627,85264.94948159145,Bachelor,Self-Employed,0,New York
+1628,34476.22635745768,Bachelor,Employed,1,New York
+1629,47802.64781910358,Master,Self-Employed,0,Phoenix
+1630,54333.773853709936,High School,Employed,0,Los Angeles
+1631,75820.12608053825,Bachelor,Self-Employed,0,Los Angeles
+1632,34508.44830497992,Master,Employed,0,Los Angeles
+1633,63339.27390276626,Bachelor,Employed,0,Phoenix
+1634,28165.123805487274,PhD,Employed,0,New York
+1635,61676.35770737858,Bachelor,Self-Employed,0,Chicago
+1636,68555.4466793243,Master,Employed,0,Chicago
+1637,33344.62478821441,High School,Employed,0,Chicago
+1638,32975.426040377526,Master,Unemployed,0,New York
+1639,48073.31923521855,PhD,Self-Employed,0,Chicago
+1640,44092.3567406873,Bachelor,Employed,1,New York
+1641,26962.233273951046,PhD,Employed,0,Chicago
+1642,35066.86641100981,High School,Employed,0,Chicago
+1643,30492.302028926188,High School,Employed,0,New York
+1644,32358.506927225575,Bachelor,Employed,0,Houston
+1645,45560.16545277028,High School,Unemployed,1,New York
+1646,24509.289451201425,Bachelor,Unemployed,0,Houston
+1647,28514.021366762274,High School,Employed,1,Los Angeles
+1648,38938.961000310184,High School,Employed,0,New York
+1649,108708.31096117114,Master,Employed,0,New York
+1650,28650.526534966128,Master,Unemployed,0,Phoenix
+1651,49909.93910976549,High School,Unemployed,0,New York
+1652,39370.056063291144,Bachelor,Employed,1,New York
+1653,61454.53533035764,Bachelor,Self-Employed,0,Los Angeles
+1654,170614.41978891366,Bachelor,Employed,0,Chicago
+1655,44468.3910701456,Bachelor,Employed,0,Los Angeles
+1656,50928.28500753163,Bachelor,Employed,0,New York
+1657,109332.03110419706,Bachelor,Employed,0,New York
+1658,63566.69630345229,PhD,Employed,0,New York
+1659,37756.525033753474,High School,Employed,0,New York
+1660,82525.20748636617,Bachelor,Employed,0,Los Angeles
+1661,38043.798755678545,High School,Unemployed,1,Chicago
+1662,32945.61806299819,Bachelor,Employed,0,New York
+1663,16559.29856341691,High School,Employed,0,Los Angeles
+1664,34159.71411246193,High School,Employed,0,Los Angeles
+1665,66967.27411134292,High School,Employed,0,Phoenix
+1666,30326.63841755622,High School,Employed,0,Phoenix
+1667,29469.102066647443,PhD,Employed,0,Houston
+1668,29108.53882446776,Master,Employed,0,New York
+1669,55359.79136687503,High School,Employed,1,New York
+1670,44450.463714467194,High School,Employed,0,Los Angeles
+1671,57618.05358457119,High School,Employed,0,New York
+1672,17839.323147517352,Bachelor,Employed,0,Los Angeles
+1673,40108.59860817931,High School,Employed,0,Houston
+1674,37987.44141282224,Bachelor,Employed,0,Houston
+1675,19803.017142482953,High School,Self-Employed,1,Houston
+1676,50678.08933906121,High School,Employed,1,Los Angeles
+1677,45314.54431279344,Bachelor,Employed,1,Chicago
+1678,53764.168313218026,PhD,Self-Employed,1,Los Angeles
+1679,22136.48361092635,PhD,Employed,0,New York
+1680,62251.36539182922,Master,Employed,0,Chicago
+1681,84191.54375659963,High School,Self-Employed,0,New York
+1682,37449.124886274134,Master,Self-Employed,0,Los Angeles
+1683,33807.4773062768,Bachelor,Unemployed,0,Los Angeles
+1684,33153.05028179925,Master,Employed,0,Chicago
+1685,43656.92221095179,Bachelor,Employed,0,Chicago
+1686,40484.62658621966,Master,Employed,0,New York
+1687,29853.80767661626,Bachelor,Employed,0,Houston
+1688,80489.36919882792,Master,Employed,0,New York
+1689,66404.48436934345,PhD,Employed,0,Los Angeles
+1690,106731.13124415216,Bachelor,Self-Employed,0,Chicago
+1691,47915.253902528064,High School,Employed,0,Chicago
+1692,46293.02591592141,PhD,Employed,0,Phoenix
+1693,33318.347264882315,High School,Employed,0,New York
+1694,25094.222537584326,Master,Employed,0,Chicago
+1695,87609.6682827113,High School,Employed,0,Chicago
+1696,26331.588291418564,Bachelor,Employed,0,Phoenix
+1697,20502.917538029567,Bachelor,Employed,0,New York
+1698,47769.081867729044,Bachelor,Employed,0,Chicago
+1699,83173.41965625946,Master,Self-Employed,0,Los Angeles
+1700,135858.39285956198,High School,Self-Employed,0,New York
+1701,28613.32173582912,High School,Employed,0,Los Angeles
+1702,94269.26489954162,High School,Employed,0,Los Angeles
+1703,12669.790943007454,High School,Self-Employed,0,Los Angeles
+1704,43948.450920872034,Master,Self-Employed,0,Houston
+1705,103705.65538512063,PhD,Employed,0,Los Angeles
+1706,57298.0527438675,High School,Employed,0,Chicago
+1707,25480.684788862414,Master,Employed,0,Los Angeles
+1708,19856.201386827328,Master,Self-Employed,0,New York
+1709,21154.749492572715,High School,Unemployed,0,New York
+1710,37033.41717846228,PhD,Employed,0,Los Angeles
+1711,50776.39031445061,Bachelor,Self-Employed,0,Los Angeles
+1712,11701.795400939325,Bachelor,Employed,0,New York
+1713,63731.59024041144,Master,Unemployed,0,Los Angeles
+1714,41134.70445479965,High School,Employed,0,Los Angeles
+1715,23032.29197692795,Master,Self-Employed,0,New York
+1716,23062.61227495564,Master,Employed,1,Los Angeles
+1717,39633.05081388704,Bachelor,Employed,0,New York
+1718,39128.492568515474,Master,Employed,0,Phoenix
+1719,61702.76897763484,High School,Unemployed,0,Houston
+1720,81943.44850510232,High School,Self-Employed,0,Chicago
+1721,13758.306811682862,High School,Self-Employed,0,New York
+1722,61464.93259770318,PhD,Unemployed,0,Chicago
+1723,27519.101253533892,Bachelor,Employed,0,Houston
+1724,28384.13164132247,High School,Employed,1,Chicago
+1725,28255.693007708058,High School,Employed,0,New York
+1726,61461.736636692935,Master,Employed,0,Chicago
+1727,35545.07912190888,High School,Employed,1,Houston
+1728,21588.68555379307,Bachelor,Employed,0,Los Angeles
+1729,30044.247176748784,Bachelor,Employed,1,Chicago
+1730,50067.8928748966,Bachelor,Employed,0,Los Angeles
+1731,67895.0722046984,Master,Employed,0,Los Angeles
+1732,69493.95785928052,Bachelor,Employed,0,New York
+1733,42253.88379378579,Bachelor,Unemployed,0,Chicago
+1734,37360.2843985432,PhD,Self-Employed,1,New York
+1735,42013.64502769198,Bachelor,Unemployed,0,Los Angeles
+1736,66067.94604208549,PhD,Employed,0,New York
+1737,46025.3556563533,High School,Employed,0,Los Angeles
+1738,46297.23545261641,Master,Self-Employed,0,New York
+1739,57426.22846269682,Bachelor,Employed,0,Chicago
+1740,63396.330639443855,Bachelor,Employed,0,Houston
+1741,26808.027497051342,Master,Employed,0,New York
+1742,62052.10384005034,Master,Employed,0,New York
+1743,48437.48199365529,Master,Employed,0,New York
+1744,29789.926159382136,Bachelor,Employed,0,Houston
+1745,48232.07105395712,Master,Employed,0,Los Angeles
+1746,45301.573863570535,Master,Employed,0,Los Angeles
+1747,115098.16420328112,High School,Employed,0,New York
+1748,85719.86991838277,Master,Self-Employed,0,Chicago
+1749,30553.55621837152,Master,Employed,0,Houston
+1750,39179.29576388373,High School,Employed,0,Houston
+1751,20635.883181485868,Bachelor,Self-Employed,0,Chicago
+1752,52964.0066502949,High School,Employed,0,New York
+1753,26074.895445110513,Bachelor,Employed,0,New York
+1754,15217.286433246374,High School,Employed,0,New York
+1755,62191.605818625554,High School,Employed,0,New York
+1756,39829.11819101209,Bachelor,Employed,0,New York
+1757,83775.03511594572,Bachelor,Self-Employed,1,New York
+1758,37114.81215132686,Bachelor,Employed,0,Los Angeles
+1759,56805.202854512696,Master,Employed,0,Phoenix
+1760,30329.117160895927,PhD,Employed,1,Chicago
+1761,38779.46185380246,Bachelor,Employed,0,Houston
+1762,29196.731224851577,PhD,Employed,0,Chicago
+1763,10935.35968960007,High School,Employed,0,New York
+1764,27727.4621334645,Bachelor,Employed,0,Chicago
+1765,18517.097123313088,Bachelor,Employed,1,New York
+1766,18903.391764551045,High School,Employed,1,Chicago
+1767,19750.88267933495,Master,Employed,0,Los Angeles
+1768,34537.93155494383,Master,Self-Employed,0,Phoenix
+1769,35383.193447607715,Bachelor,Employed,1,New York
+1770,26239.50073482469,Bachelor,Employed,0,New York
+1771,42404.02566292303,High School,Employed,0,Phoenix
+1772,31727.416159774533,Bachelor,Employed,1,New York
+1773,64144.217706472016,Bachelor,Employed,0,Chicago
+1774,32470.516263414323,Bachelor,Employed,0,Chicago
+1775,25803.78636054504,Master,Self-Employed,0,Houston
+1776,33575.21321536864,PhD,Self-Employed,1,Phoenix
+1777,60633.76777345803,High School,Employed,0,Phoenix
+1778,9407.945369467756,PhD,Employed,0,New York
+1779,22166.52051074525,Bachelor,Self-Employed,0,Houston
+1780,24122.315558096314,High School,Unemployed,0,Chicago
+1781,41845.023771894965,Bachelor,Self-Employed,0,Chicago
+1782,35703.28116742783,High School,Employed,0,New York
+1783,14494.530750376489,PhD,Employed,0,Chicago
+1784,46721.40291006921,High School,Employed,0,Phoenix
+1785,28591.689219403885,Bachelor,Self-Employed,1,Phoenix
+1786,12954.521137584063,High School,Employed,0,Los Angeles
+1787,17047.322652878578,Bachelor,Employed,1,New York
+1788,43134.57837400356,Master,Self-Employed,0,Los Angeles
+1789,46529.37991559584,High School,Employed,0,Houston
+1790,31016.414653091753,High School,Self-Employed,0,Chicago
+1791,12405.225847694586,High School,Employed,0,Los Angeles
+1792,44789.71879005046,High School,Employed,1,New York
+1793,37190.18805150391,Bachelor,Employed,0,Los Angeles
+1794,47648.40381043126,High School,Self-Employed,0,Los Angeles
+1795,26240.600134965294,Bachelor,Employed,0,Phoenix
+1796,37643.78335204709,Master,Employed,0,Chicago
+1797,54424.31019933659,Master,Unemployed,0,Los Angeles
+1798,23657.1403687063,Master,Employed,0,Los Angeles
+1799,55072.50432451064,High School,Employed,0,New York
+1800,27047.613714866402,High School,Employed,0,Phoenix
+1801,25166.98421145478,Bachelor,Employed,0,Los Angeles
+1802,36869.3088007272,Master,Employed,0,Los Angeles
+1803,38621.35214469043,Bachelor,Employed,0,Los Angeles
+1804,37151.39104493662,High School,Employed,0,Chicago
+1805,29273.888230784596,Bachelor,Employed,0,Chicago
+1806,89370.39499726713,Bachelor,Employed,0,Chicago
+1807,40125.459735815704,High School,Employed,0,New York
+1808,85122.98509780424,Bachelor,Employed,0,Los Angeles
+1809,36078.5069069844,Master,Employed,1,New York
+1810,72872.0564387886,Bachelor,Employed,0,Chicago
+1811,20087.062777680865,Bachelor,Employed,0,New York
+1812,29834.421974026674,High School,Employed,1,Chicago
+1813,50824.480803801314,Bachelor,Self-Employed,0,Houston
+1814,20546.33747280178,Bachelor,Employed,0,Houston
+1815,35336.235171383814,Master,Unemployed,1,Los Angeles
+1816,20781.96488557015,Bachelor,Unemployed,0,Los Angeles
+1817,37673.31284559633,Master,Employed,0,New York
+1818,24939.064957548915,Bachelor,Employed,0,Chicago
+1819,54435.48705001331,Bachelor,Employed,0,Houston
+1820,30994.813743412593,Master,Self-Employed,0,New York
+1821,86489.87311366004,Bachelor,Employed,0,Los Angeles
+1822,139202.9009894672,Bachelor,Employed,0,Houston
+1823,20741.18256071482,Bachelor,Employed,0,Houston
+1824,50517.72596843572,Bachelor,Self-Employed,1,New York
+1825,58792.706922184945,Master,Self-Employed,0,Los Angeles
+1826,86472.61211536125,Bachelor,Employed,1,New York
+1827,15306.964942883951,Master,Employed,1,New York
+1828,32071.9517080574,Master,Employed,0,Phoenix
+1829,37469.48095286298,High School,Employed,0,Houston
+1830,37429.94317490553,PhD,Self-Employed,0,Chicago
+1831,27160.865546324894,Bachelor,Employed,1,New York
+1832,69869.62240432536,PhD,Employed,0,Houston
+1833,9503.070278619876,Bachelor,Employed,0,Los Angeles
+1834,29876.809740552635,High School,Self-Employed,0,Los Angeles
+1835,63665.60963212003,High School,Self-Employed,0,Los Angeles
+1836,24370.901973367843,High School,Employed,0,New York
+1837,24864.72754867214,High School,Self-Employed,0,Chicago
+1838,127242.15411673214,Master,Employed,0,Chicago
+1839,49752.29379854141,Bachelor,Employed,0,New York
+1840,19528.87147749782,Bachelor,Employed,1,New York
+1841,107763.942111048,Master,Employed,0,New York
+1842,25654.577068454208,High School,Employed,1,New York
+1843,39181.22997001746,PhD,Self-Employed,0,Chicago
+1844,38707.00007069589,Master,Employed,0,Houston
+1845,49495.569004781246,PhD,Employed,0,New York
+1846,87331.11222306018,Master,Employed,0,New York
+1847,98477.41556732205,Bachelor,Employed,1,Los Angeles
+1848,29703.41285169579,Bachelor,Self-Employed,0,Houston
+1849,39018.26841126533,Master,Employed,1,Los Angeles
+1850,58366.535093800165,High School,Employed,0,Los Angeles
+1851,41068.69858979247,Bachelor,Self-Employed,0,Chicago
+1852,74490.63809632396,Bachelor,Employed,0,New York
+1853,74110.46226576822,PhD,Employed,0,New York
+1854,58723.99665758029,High School,Employed,0,Chicago
+1855,62639.33776607794,High School,Employed,1,Chicago
+1856,26212.10743831953,High School,Unemployed,0,Los Angeles
+1857,60233.97674081317,Bachelor,Self-Employed,0,Chicago
+1858,100995.97436182329,Bachelor,Employed,0,Chicago
+1859,61321.05723332636,Bachelor,Self-Employed,0,New York
+1860,59375.53831394193,Bachelor,Employed,0,Los Angeles
+1861,39286.21916197198,Master,Employed,0,New York
+1862,45963.60469602001,High School,Employed,0,New York
+1863,43479.04784448031,Master,Employed,0,Chicago
+1864,21515.34261420255,Master,Employed,0,Houston
+1865,21029.306661824136,Bachelor,Employed,0,Phoenix
+1866,25799.52548617909,High School,Self-Employed,0,Chicago
+1867,27328.256222909306,High School,Employed,0,New York
+1868,45024.544088193936,Master,Employed,0,New York
+1869,18316.76723239877,Bachelor,Employed,0,Houston
+1870,40998.0212699674,High School,Employed,0,Los Angeles
+1871,55494.30166548914,High School,Employed,0,Chicago
+1872,22965.84618923527,Bachelor,Employed,0,Houston
+1873,30848.792323986054,Bachelor,Self-Employed,0,Chicago
+1874,42200.84730586704,High School,Employed,0,Houston
+1875,71224.81364444733,Master,Employed,0,New York
+1876,75774.23006334086,Bachelor,Employed,0,Chicago
+1877,75149.31071635964,High School,Employed,0,Houston
+1878,54003.95375656461,High School,Employed,1,New York
+1879,52881.3075912691,Master,Employed,0,Chicago
+1880,31295.399699212976,Bachelor,Employed,0,Los Angeles
+1881,41846.60634479851,Master,Employed,0,Phoenix
+1882,40964.63600014823,Bachelor,Employed,1,New York
+1883,25981.36228648735,Bachelor,Employed,0,Los Angeles
+1884,43313.291756995925,Bachelor,Employed,1,New York
+1885,38713.1956984999,Bachelor,Self-Employed,0,Chicago
+1886,39287.72116611639,High School,Employed,0,New York
+1887,22127.214613890836,Bachelor,Self-Employed,0,New York
+1888,105783.82138247223,Master,Employed,0,Los Angeles
+1889,46564.04956252719,Bachelor,Self-Employed,1,Phoenix
+1890,67547.56177817006,Bachelor,Employed,0,New York
+1891,62343.95152040653,Bachelor,Employed,0,New York
+1892,47055.7738038389,Bachelor,Employed,0,Chicago
+1893,10695.256462296176,Bachelor,Unemployed,0,Los Angeles
+1894,35774.68848911256,High School,Employed,0,Phoenix
+1895,32124.050167975758,High School,Employed,0,New York
+1896,30923.99871847473,High School,Employed,1,Chicago
+1897,137162.03412354056,High School,Self-Employed,0,New York
+1898,79027.89996497169,High School,Employed,0,New York
+1899,69609.57908632391,Bachelor,Self-Employed,0,Chicago
+1900,52401.76070959192,High School,Employed,0,Chicago
+1901,58133.3784072672,PhD,Employed,0,Chicago
+1902,22142.096370988576,High School,Employed,1,New York
+1903,35536.184936199366,High School,Unemployed,0,Los Angeles
+1904,56730.478481426624,Bachelor,Employed,0,Los Angeles
+1905,88460.16680378933,Master,Unemployed,0,Phoenix
+1906,29860.164699560555,Master,Employed,1,New York
+1907,29317.010188585667,High School,Employed,0,New York
+1908,28594.508901782865,PhD,Employed,0,Los Angeles
+1909,94045.39856494119,Bachelor,Employed,0,Los Angeles
+1910,32645.794183780323,Bachelor,Self-Employed,0,New York
+1911,122051.43170431026,Master,Unemployed,0,Phoenix
+1912,43424.76873653969,Master,Self-Employed,0,New York
+1913,65341.9418480309,Bachelor,Employed,0,Houston
+1914,43615.33862961855,Bachelor,Employed,0,New York
+1915,22719.448920183873,Bachelor,Employed,0,Chicago
+1916,31356.603687448245,Bachelor,Unemployed,0,Phoenix
+1917,38197.55067195968,Master,Employed,0,New York
+1918,36510.53155073856,High School,Employed,0,Phoenix
+1919,35054.315134142795,Bachelor,Employed,0,Los Angeles
+1920,81924.02907062235,Bachelor,Employed,0,Phoenix
+1921,55578.59173323507,Bachelor,Unemployed,0,Chicago
+1922,38659.849000338836,Bachelor,Employed,0,New York
+1923,22825.916652630498,High School,Employed,0,New York
+1924,37879.965697591586,PhD,Employed,1,New York
+1925,14853.157646490929,Master,Employed,0,New York
+1926,58357.86619858619,Bachelor,Employed,1,New York
+1927,31044.56688856855,Master,Employed,0,New York
+1928,38377.23831153447,Master,Self-Employed,0,Los Angeles
+1929,21786.53638502562,Master,Unemployed,0,Houston
+1930,23654.141646693868,High School,Employed,0,New York
+1931,50739.153272648364,High School,Employed,0,New York
+1932,66545.4538088397,Bachelor,Unemployed,0,Chicago
+1933,48088.69181207055,Bachelor,Employed,1,New York
+1934,34404.73274915859,Bachelor,Employed,0,New York
+1935,44615.4770790513,Bachelor,Employed,0,New York
+1936,64015.077662593576,High School,Employed,0,Phoenix
+1937,37326.163279233726,Master,Employed,0,Houston
+1938,29219.061036476807,High School,Unemployed,0,Los Angeles
+1939,24868.985329099996,Bachelor,Employed,0,Chicago
+1940,21829.08815339235,PhD,Employed,1,Los Angeles
+1941,31903.1464019312,PhD,Employed,0,Chicago
+1942,40975.28207502745,Master,Employed,0,Chicago
+1943,24069.916199407344,PhD,Employed,0,Chicago
+1944,30609.509998981644,High School,Self-Employed,0,New York
+1945,65136.920283558946,PhD,Self-Employed,0,New York
+1946,23493.808670944003,Bachelor,Employed,0,Los Angeles
+1947,49244.429296758855,Bachelor,Self-Employed,0,Houston
+1948,40093.23555159705,Bachelor,Self-Employed,0,Los Angeles
+1949,50056.90799557805,Bachelor,Self-Employed,0,Houston
+1950,19013.274969026737,Bachelor,Employed,1,Phoenix
+1951,55360.58190528622,High School,Employed,0,New York
+1952,46977.75614541427,Master,Employed,0,Chicago
+1953,38107.38611838538,High School,Employed,0,Chicago
+1954,10567.394352445703,Bachelor,Employed,0,Phoenix
+1955,73684.10048812111,Master,Employed,0,Phoenix
+1956,27681.089657744586,High School,Self-Employed,0,Chicago
+1957,15508.499948122979,High School,Self-Employed,0,New York
+1958,70554.55477104402,High School,Self-Employed,0,Houston
+1959,67029.19684390927,Bachelor,Employed,0,New York
+1960,59742.305971688984,Bachelor,Employed,0,Houston
+1961,29540.55050833502,PhD,Employed,1,Phoenix
+1962,26764.2080909772,Bachelor,Employed,1,Los Angeles
+1963,58150.44460283592,High School,Employed,0,Chicago
+1964,26807.69577817584,Master,Employed,0,Los Angeles
+1965,15332.976308628253,Master,Employed,0,Los Angeles
+1966,35008.55527986446,Bachelor,Self-Employed,1,Los Angeles
+1967,8600.632806726475,Bachelor,Employed,0,Chicago
+1968,31871.055746183498,Bachelor,Employed,1,Phoenix
+1969,21331.052593901943,High School,Employed,0,Phoenix
+1970,81973.56075317036,High School,Employed,0,New York
+1971,88259.34982166783,Bachelor,Employed,0,Houston
+1972,62872.42701376769,PhD,Employed,1,Chicago
+1973,21174.14048019795,High School,Employed,1,New York
+1974,25350.104466929064,Bachelor,Employed,0,New York
+1975,91311.02219978494,High School,Employed,0,New York
+1976,31203.22937206244,High School,Employed,0,Phoenix
+1977,38250.181923606164,Bachelor,Employed,0,Chicago
+1978,98527.01217437658,Bachelor,Self-Employed,0,Chicago
+1979,46139.17011517278,Master,Employed,0,New York
+1980,30053.127543046732,High School,Employed,0,Chicago
+1981,33989.63505705899,High School,Employed,0,New York
+1982,50469.77010977127,High School,Unemployed,0,Los Angeles
+1983,100850.67685736506,Bachelor,Self-Employed,0,Chicago
+1984,22461.20165419295,Bachelor,Employed,0,New York
+1985,22865.413823598654,High School,Employed,0,Houston
+1986,26381.5246497548,Bachelor,Self-Employed,0,New York
+1987,15011.352976671062,Bachelor,Employed,0,Chicago
+1988,23757.009582792583,Master,Employed,0,Los Angeles
+1989,90723.49494804787,PhD,Employed,0,Chicago
+1990,18152.177747434926,Master,Self-Employed,0,New York
+1991,31513.78195273499,Master,Self-Employed,0,New York
+1992,34695.943066387204,Bachelor,Employed,0,Phoenix
+1993,34844.17135510367,PhD,Employed,1,New York
+1994,17207.231805516756,Bachelor,Employed,1,Houston
+1995,36779.02302684225,PhD,Employed,0,Phoenix
+1996,25998.322453408826,PhD,Unemployed,0,New York
+1997,27330.623162624634,Master,Employed,0,New York
+1998,22781.147051240267,PhD,Employed,1,Chicago
+1999,53982.623416983384,High School,Employed,0,Phoenix
+2000,64597.827608851236,Bachelor,Employed,0,Phoenix
