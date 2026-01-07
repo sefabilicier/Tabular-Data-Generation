@@ -1,6 +1,9 @@
 ### Overview
 A comprehensive Python-based project for generating synthetic tabular data using statistical methods. This project creates privacy-preserving artificial datasets that mimic the statistical properties of real data while protecting sensitive information.
 
+See the theory part of this topic.
+https://medium.com/@sefabilicier/tabular-data-generation-0abf28e553e8
+
 ### Features
 **Complete Data Generation**: Generate synthetic data for all column types (numerical, categorical, boolean)
 **Privacy Protection**: No exact duplicates from original data
